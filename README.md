@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rafissif
-- 👀 I’m interested in mobile app development
-- 🌱 I’m currently learning dart and flutter
+- 👀 I’m interested in tech and psychology
+- 🌱 I’m currently learning web development 
 - 📫 Mail me at- write.rafissif@gmail.com
 
 <!---
