@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rafissif
-- 👀 I’m interested in tech and psychology
-- 🌱 I’m currently learning web development 
+- 👀 I’m interested in data and psychology
+- 🌱 I’m currently learning Python 
 - 📫 Mail me at- write.rafissif@gmail.com
 
 <!---
